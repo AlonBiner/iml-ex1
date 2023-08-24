@@ -1,1 +1,8 @@
+# Ignore everything
+*
+
+# Excluding files ending with .py, .cpp, .c, Makefile
 !*.py
+!*.cpp
+!*.c
+!Makefile
